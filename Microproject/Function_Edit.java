@@ -1,4 +1,3 @@
-
 public class Function_Edit {
 	Notepad ntp;
 	
